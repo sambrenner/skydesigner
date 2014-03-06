@@ -1,0 +1,7 @@
+#body,
+#skyCapture,
+#skyCanvas { width: 100%; }
+
+#skyCanvas { position: absolute; top: 0; }
+
+.hidden { display: none; }
