@@ -5,9 +5,20 @@
 
     <link rel="stylesheet" type="text/css" href="lib/css/reset.css">
     <link rel="stylesheet" type="text/css" href="lib/css/style.css">
+
+    <script type="text/javascript" src="lib/js/libs/zepto.min.js"></script>
+    
+    <script type="text/javascript" src="lib/js/sky/sky.main.js"></script>
+    <script type="text/javascript" src="lib/js/sky/sky.capture.js"></script>
   </head>
 
   <body>
-    <input type="file" id="camera_capture" accept="image/*;capture=camera" />
+    <video id="skyCapture"></video>
   </body>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      sky.main.init();
+    });
+  </script>
 </html>
