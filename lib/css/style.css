@@ -1,6 +1,8 @@
-#body,
+body,
 #skyCapture,
 #skyCanvas { width: 100%; }
+
+body { background-color: #000; height: 100%; overflow: hidden; }
 
 #skyCanvas { position: absolute; top: 0; }
 
