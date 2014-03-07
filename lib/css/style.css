@@ -2,8 +2,10 @@ body,
 #skyCapture,
 #skyCanvas { width: 100%; }
 
-body { background-color: #000; height: 100%; overflow: hidden; }
+body { background-color: #000; font-family: sans-serif; font-weight: bold; height: 100%; overflow: hidden; }
 
-#skyCanvas { position: absolute; top: 0; }
+#skyCanvas { position: absolute; left: 0; top: 0; }
+
+#instructions { background-color: #FEFEFE; bottom: 6px; display: block; padding: 6px; position: absolute; text-align: center; width: 100%; }
 
 .hidden { display: none; }
