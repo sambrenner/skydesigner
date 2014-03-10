@@ -57,7 +57,7 @@
         $count++;
       }
     } else {
-      $primaryPeopleString = 'the Cooper Hewitt Collection';
+      $primaryPeopleString = 'the Cooper-Hewitt Collection';
     }
 
     return $primaryPeopleString;
