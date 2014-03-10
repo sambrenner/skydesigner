@@ -25,6 +25,7 @@ Screenshots
 -------
 ![Washington Square Arch](http://www.samjbrenner.com/projects/sky/lib/img/01.jpg) 
 ![Bobst Library](http://www.samjbrenner.com/projects/sky/lib/img/02.jpg)
+![Bobst Library Inverse](http://www.samjbrenner.com/projects/sky/lib/img/03.jpg)
 ![World Trade Center](http://www.samjbrenner.com/projects/sky/lib/img/04.jpg)
 ![Taxis on Broadway](http://www.samjbrenner.com/projects/sky/lib/img/05.jpg)
 ![Bleecker St. Sidewalk](http://www.samjbrenner.com/projects/sky/lib/img/06.jpg)
